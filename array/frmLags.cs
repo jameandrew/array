@@ -8,6 +8,11 @@ namespace array
 {
     public class frmLags
     {
+       
+    }
+
+    public class frmhugs
+    {
 
     }
 }
